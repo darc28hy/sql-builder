@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/indie_api_test2" value="PREVIEW" />
+        <entry key="$USER_HOME$/demo-kotlin-spring2" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/agent/agent-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/agent/agent-batch-geocode-upward" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/agent/indie-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/agent/management-console" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/agent_batch/agent-controller" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/agent_batch/controller" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/agent_batch/import-user-salesforce" value="PREVIEW" />
+        <entry key="$USER_HOME$/git/agent_batch_test/common-general-test" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
