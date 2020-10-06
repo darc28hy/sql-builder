@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.github.darc28hy'
-version = System.getenv('GITHUB_RELEASE_VERSION') ?: '1.0-SNAPSHOT'
+version = (System.getenv('GITHUB_RELEASE_VERSION') ?: '1.0-SNAPSHOT').replaceFirst(/^v|V/, '')
 
 repositories {
     mavenCentral()
